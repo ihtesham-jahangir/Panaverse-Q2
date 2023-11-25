@@ -1,10 +1,11 @@
 # Sign-Up Landing Page
+******Welcome to the Sign-Up Landing Page for your website! This landing page is built using Next.js and styled with Shadcn to create a sleek and modern look.******
 Snaps:
 
 ![Screenshot 2023-11-25 213050](https://github.com/ihtesham-jahangir/Panaverse-Q2/assets/97870882/8f32c422-a9b5-433a-b192-c85fc6a425c0)
 ![Screenshot 2023-11-25 213111](https://github.com/ihtesham-jahangir/Panaverse-Q2/assets/97870882/f0e112c8-27c4-4291-a064-c29339594007)
 
-Welcome to the Sign-Up Landing Page for your website! This landing page is built using Next.js and styled with Shadcn to create a sleek and modern look.
+
 
 ## Installation
 
