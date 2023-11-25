@@ -17,32 +17,33 @@ To get this landing page up and running on your local machine, follow these step
 
 1. **Clone the Repository**: First, clone this repository to your computer. You can do this by opening your terminal and running:
 
-   ```bash
+**bash**
    git clone https://github.com/your-username/your-repo-name.git
 Replace your-username and your-repo-name with your actual GitHub username and repository name.
 
 Navigate to the Directory: Move into the project directory:
 
-bash
+**bash**
 
 cd your-repo-name
 Install Dependencies: Install the required dependencies using npm (Node Package Manager):
 
-bash
+**bash**
 
 npm install
 Start the Development Server: Now, you can start the Next.js development server:
 
-bash
+**bash**
 
 npm run dev
+
 Open in your Browser: Open your web browser and go to http://localhost:3000 to see your Sign-Up Landing Page in action!
 
 That's it! You now have your Sign-Up Landing Page running locally on your machine. You can start customizing it to suit your needs and push your changes to GitHub when you're ready.
 
-Happy coding!
+**Happy coding!**
 
-javascript
+**javascript**
 
 
-Just replace `ihtesham jahangir` and `Simple Signup` with your actual GitHub username and r
+Just replace `**ihtesham jahangir**` and `**Simple Signup**` with your actual GitHub username and repo name
